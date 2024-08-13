@@ -1,0 +1,1 @@
+﻿select distinct city from house order by city;

@@ -1,0 +1,1 @@
+﻿select sid from seller where s_name='shiv';
